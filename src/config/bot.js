@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "corrupting", // required by Discord API, not shown in the client
         state: "join https://discord.gg/mqZhqX3gX",     // this is what people actually see
-        type: 4,               // Custom
+        type: 3,               // Custom
       },
     ],
   },
